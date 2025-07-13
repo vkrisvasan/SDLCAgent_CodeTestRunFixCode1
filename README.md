@@ -2,7 +2,8 @@
 
 Vibe coding using Google Code Assist with VSCode IDE. 
 
-Step 1: install IDE and plugin 
+Step 1: 
+install IDE and plugin 
 https://code.visualstudio.com/
 https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist
 Connect gmail id to the gemini code assist plugin and authorise 
