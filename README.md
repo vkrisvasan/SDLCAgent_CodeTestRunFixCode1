@@ -44,6 +44,7 @@ https://ai.google.dev/gemini-api/docs/rate-limits
 Step 4:
 
 Rate limit error when using free tier model 'gemini-1.5-pro-latest'
+
 A critical error occurred: Google AI API call failed in generate_code: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
 }
 violations {
