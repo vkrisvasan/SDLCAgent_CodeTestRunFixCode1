@@ -4,15 +4,14 @@ Vibe coding using Google Code Assist with VSCode IDE.
 
 Step 1: 
 
-install IDE and plugin 
-https://code.visualstudio.com/
-https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist
-Connect gmail id to the gemini code assist plugin and authorise 
-In the left panel of VS Code IDE > gemini code assist with a ai icon > authorise your google id and following URL will auto open with message saying
-https://developers.google.com/gemini-code-assist/auth/auth_success_gemini
-“The authentication process has been successfully completed.. You can now close the current window and go back to your IDE. Gemini Code Assist, an AI tool, is now available for use. Gemini Code Assist can help you solve code problems, generate code, and provide inline suggestions.”
-Developers can sign up with their personal Google account to access Gemini Code Assist available at no cost, no credit card needed. This version has high limits on operations such as code completions (6,000 per day), chat engagements (240 per day), and code reviews. 
-Visual studio code (IDE) + Gemini code assist (Model) 
+1. install IDE and plugin 
+ -- https://code.visualstudio.com/ -- 
+https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist -- 
+2. In the left panel of VS Code IDE > gemini code assist with a ai icon > authorise your google id and following URL will auto open with message saying
+ -- https://developers.google.com/gemini-code-assist/auth/auth_success_gemini -- 
+“The authentication process has been successfully completed.. You can now close the current window and go back to your IDE. Gemini Code Assist, an AI tool, is now available for use. Gemini Code Assist can help you solve code problems, generate code, and provide inline suggestions.” -- 
+3. Developers can sign up with their personal Google account to access Gemini Code Assist available at no cost, no credit card needed. This version has high limits on operations such as code completions (6,000 per day), chat engagements (240 per day), and code reviews. 
+4. Visual studio code (IDE) + Gemini code assist (Model) is set up right
 
 Step 2: 
 Prompts to arrive at the code
