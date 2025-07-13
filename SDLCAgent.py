@@ -218,7 +218,7 @@ def main():
     """Main function to run the code generation and testing workflow."""
 
     # Initialize filenames to None for cleanup logic in the finally block
-    MAX_ATTEMPTS = 3
+    MAX_ATTEMPTS = 1
     code_filename = None
     test_filename = None
     log_filename = None
