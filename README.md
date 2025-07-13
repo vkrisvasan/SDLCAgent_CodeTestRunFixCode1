@@ -2,7 +2,7 @@
 
 Vibe coding using Google Code Assist with VSCode IDE. 
 
-Step 1: 
+Step 1: Setup IDE Plugin and model
 
 1. install IDE and plugin 
  -- https://code.visualstudio.com/ -- 
