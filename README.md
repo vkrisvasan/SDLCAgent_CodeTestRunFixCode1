@@ -13,7 +13,8 @@ https://developers.google.com/gemini-code-assist/auth/auth_success_gemini
 Developers can sign up with their personal Google account to access Gemini Code Assist available at no cost, no credit card needed. This version has high limits on operations such as code completions (6,000 per day), chat engagements (240 per day), and code reviews. 
 Visual studio code (IDE) + Gemini code assist (Model) 
 
-Step 2: Prompts to arrive at the code
+Step 2: 
+Prompts to arrive at the code
 1. Build an agent using agent development kit that will take a requirement and generate the working code
 2. Add a method to the agent to automatically generate unit tests for the code it creates. also use gemini model instead of openai model
 3. How can I make the agent save the generated code and tests to separate files?
