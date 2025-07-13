@@ -25,21 +25,21 @@ Prompts to arrive at the code
 
 Step 3:
 1. To get the GOOGLE_API_KEY 
-https://aistudio.google.com/u/2/apikey
+https://aistudio.google.com/u/2/apikey -- 
 https://ai.google.dev/gemini-api/docs/rate-limits
 2. head to the directory of the code
 3. create .env file with following line and update the api key obtained in earlier step
-GOOGLE_API_KEY=' '
+ ---- GOOGLE_API_KEY=' '  ---- 
 4. create .gitignore file with
-.env
+ ---- .env  ---- 
 5. create virtual enbironment
-python3 -m venv venv
+ ---- python3 -m venv venv ---- 
 6. Activate the virtual environment:  must do this every time there is work on the project in a new terminal session. notice the terminal prompt changes to show (venv)
-source venv/bin/activate
+ ---- source venv/bin/activate ---- 
 7. Install dependencies
-pip install -r requirements.txt
+ ---- pip install -r requirements.txt ---- 
 8. run the code
-python SDLCAgent.py
+ ---- python SDLCAgent.py ---- 
 
 
    
