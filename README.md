@@ -24,7 +24,7 @@ Prompts to arrive at the code
 7. An error occurred while communicating with the Google AI API: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
 
 Step 3:
-1.To get the GOOGLE_API_KEY 
+1. To get the GOOGLE_API_KEY 
 https://aistudio.google.com/u/2/apikey
 https://ai.google.dev/gemini-api/docs/rate-limits
 2. head to the directory of the code
