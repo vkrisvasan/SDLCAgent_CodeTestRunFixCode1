@@ -63,3 +63,7 @@ violations {
 Step 5:
 
 Tried changing the model to "gemini-2.0-flash" and it seemed to have worked
+
+check the vibe coding with both gemini code assist and GHCP on both sides
+<img width="2880" height="1666" alt="image" src="https://github.com/user-attachments/assets/e35d0ac6-c0b6-4244-8c21-cc3d90e9495a" />
+
